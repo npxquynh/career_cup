@@ -17,7 +17,6 @@ public class ch1_1 {
 	}	
 	
 	public static boolean isUniqueCharsQ(String str) {
-		
 		return true;
-	}
+	} 
 }
